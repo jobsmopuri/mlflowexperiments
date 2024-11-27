@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AWS/mlflow/mlruns/0/77e544eaf78d4013964b44befa8724a0/artifacts
+end_time: 1732704174186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77e544eaf78d4013964b44befa8724a0
+run_name: adorable-cub-860
+run_uuid: 77e544eaf78d4013964b44befa8724a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732704173713
+status: 4
+tags: []
+user_id: Sivakumar.Mopuri
